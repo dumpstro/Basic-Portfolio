@@ -122,6 +122,16 @@ footer {
      z-index: 0;
  }
 
+ .img2 {
+    width: 300px;
+    height: 280px;
+}
+
+ #boba {
+     width: 300px;
+     height: 280px;
+ }
+
  .img5 {
      margin-bottom: 20px;
  }
