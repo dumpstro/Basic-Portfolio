@@ -129,7 +129,8 @@ footer {
 
  #boba,
  #trivia,
- #animal {
+ #animal,
+ #trainBoard {
      width: 300px;
      height: 280px;
  }
