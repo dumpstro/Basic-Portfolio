@@ -121,7 +121,8 @@ footer {
  .img6,
  .img7,
  .img8,
- .img9 {
+ .img9,
+ .img10 {
      position: relative;
      z-index: 0;
  }
@@ -138,7 +139,8 @@ footer {
  #databite,
  #liribot,
  #amazon,
- #leonardo {
+ #leonardo,
+ #burger {
      width: 300px;
      height: 280px;
  }
@@ -147,7 +149,8 @@ footer {
  .img6,
  .img7,
  .img8,
- .img9 {
+ .img9,
+ .img10 {
      margin-bottom: 20px;
  }
 
@@ -159,7 +162,8 @@ footer {
  .overlay6,
  .overlay7,
  .overlay8,
- .overlay9 {
+ .overlay9,
+ .overlay10 {
      position: absolute;
      z-index: 1;
      width: 100%;
